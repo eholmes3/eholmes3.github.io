@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Jekyll Basics"
 date:   2023-07-17 13:09:22 -0600
 categories: jekyll update
