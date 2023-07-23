@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Emma (Holmes) Braun
+title: Emma Braun (Holmes)
 logo: assets/img/iceland.jpeg
 description: Welcome to my website! Check back for updates soon :)
 github_username:  eholmes3
